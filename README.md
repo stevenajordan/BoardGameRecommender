@@ -6,7 +6,7 @@ To initiate the system, please run BG_Recommender_Start.py in your favorite shel
 Command Window, change to this directory and input 'python BG_Recommender_Start.py'
 
 Use the URLs from www.boardgamegeek.com (navigate via https://boardgamegeek.com/browse/boardgame) when prompted. 
-Of the top 4999 board games, 4575 were used in the system, so you can also select URLS from the acceptable_urls.txt file
+Of the top 4999 board games, 4575 were used in the system, so you can also select URLs from the acceptable_urls.txt file
 as inputs.
 
 
@@ -19,5 +19,5 @@ Attachments
 6.	Data_Exploration.ipynb – 	Clone of Data_Exploration.py in iPython format
 7.	Video Demo -			https://youtu.be/xHhrMdqcDoQ
 	
-	BG_Recommender_Start.py – 	File to initiate the recommender system
-	bgg.csv – The original dataset from www.boardgamegeek.com, but pulled from https://www.kaggle.com/mrpantherson/board-game-data
+BG_Recommender_Start.py – 	File to initiate the recommender system
+bgg.csv – The original dataset from www.boardgamegeek.com, but pulled from https://www.kaggle.com/mrpantherson/board-game-data
